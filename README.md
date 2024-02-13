@@ -17,7 +17,7 @@ This repository contains the source code for a web application built with PHP, f
 
 ## Installation and Setup
 
-* Clone the repository: git clone https://github.com/your-username/repository-name.git
+* Clone the repository: git clone https://github.com/AlhianeDev/interns-manager.git
 * Create a MySQL database and import the provided SQL file.
 * Update the database credentials in the config.php file.
 * Run the project on a local server (e.g., Apache, Nginx).
