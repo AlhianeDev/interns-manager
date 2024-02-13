@@ -26,4 +26,3 @@ This repository contains the source code for a web application built with PHP, f
 
 * Alhiane Lahcen (Gmail): [makclaaax@gmail.com](makclaaax@gmail.com)
 * Alhiane Lahcen (LinkedIn): [LinkedIn](https://www.linkedin.com/in/lahcen-alhiane-326ba82a9/)
-* 
