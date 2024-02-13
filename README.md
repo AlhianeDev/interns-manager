@@ -14,7 +14,6 @@ This repository contains the source code for a web application built with PHP, f
 * HTML/CSS: Markup and styling for the user interface.
 * Bootstrap: CSS framework for responsive and visually appealing design.
 * MVC architecture: Organizing the codebase into models, views, and controllers for separation of concerns and maintainability.
-* 
 
 ## Installation and Setup
 
