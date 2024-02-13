@@ -5,9 +5,7 @@ This repository contains the source code for a web application built with PHP, f
 ## Features
 
 * Interns management: add, edit, and delete intern.
-* Product catalog with categories.
-* Shopping cart and order management.
-* Admin panel for managing products, orders, and user accounts.
+* ...
 
 ## Technologies Used
 
